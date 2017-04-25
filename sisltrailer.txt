@@ -1,0 +1,19 @@
+﻿[orange]SiSL's Trailer Pack - Your VTC
+Version: 1.0[normal]
+
+DISCLAIMER: YOU MAY NOT USE ITEMS IN OTHER MODS, SELL OR REUPLOAD. 
+ONLY ALLOWED MODIFICATIONS ARE FOR PRIVATE USE ONLY AND ONLY IN CUSTOMIZATION FILE. 
+
+
+[orange]OFFICIAL FACEBOOK PAGE:[normal]
+https://www.facebook.com/sislsmegapack/
+
+Like and make sure to subscribe on Facebook page to see all 
+items and upcoming features in next release.
+
+[orange]OFFICIAL PAGE:[normal] 
+https://radiotrucker.com/sislsmegapack 
+
+Special Textures for your own VTC.
+
+Open this zip file, Based on pictures of templates folder, use them to replace custom.sisl_trl.dds files depending on trailer type on /sisl_custom/trailers folder
